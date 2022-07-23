@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "NodeNext",
+    "baseUrl": "./",
+    "paths": {
+      "#Lib/*": ["./src/lib/*"]
+    }
+  },
+  "exclude": ["node_modules"]
+}
